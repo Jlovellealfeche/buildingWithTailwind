@@ -96,7 +96,7 @@ function enablePaging() {
 }
 
 function formatFilm(film) {
-  return `<div class="h-72">
+  return `<div class="h-72 overflow-hidden">
     <div class="w-48 p-2">
       <img src="${film.posterUrl}" alt="${film.title}" class="absolute"/>
     </div>
