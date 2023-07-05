@@ -3,5 +3,13 @@
   "liveServer.settings.host": "localhost",
   "liveServer.settings.root": "/public",
   "liveServer.settings.port": 8083,
-  "liveServer.settings.donotShowInfoMsg": true
+  "liveServer.settings.donotShowInfoMsg": true,
+  "tailwindCSS.includeLanguages": {
+    "html": "html",
+    "javascript": "javascript",
+    "css": "css"
+},
+"editor.quickSuggestions": {
+    "strings": true
+}
 }
